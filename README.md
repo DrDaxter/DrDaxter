@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrDaxter
+- 👋 Hi, I’m @DrDaxter(real name Guillermo :D)
 - 👀 I’m interested in new technology and learn more about mobile design and performance
 - 🌱 I’m currently learning ionic with angular and also i would like to learnd react.
 - 💞️ I’m looking to collaborate on any kind of cool project xD
